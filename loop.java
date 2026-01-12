@@ -3,8 +3,7 @@
 
 public class loop{
     public static void main(String[] args) {
-        int a =5;
-        int b= a++ + ++a;
-        System.out.println(b);
+        int[] arr = new int[4];
+        System.out.println(arr);
     }
 }
