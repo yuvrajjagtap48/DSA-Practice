@@ -1,5 +1,4 @@
 package PraticeS;
-import java.io.*;
 public class countSort {
     public static void main(String[] args) {
         int n = 6;

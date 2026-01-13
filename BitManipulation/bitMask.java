@@ -1,5 +1,3 @@
-package BitManipulation;
-
 public class bitMask {
 
     public static int getIthBit(int n, int i) {
