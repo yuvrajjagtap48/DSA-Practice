@@ -20,7 +20,7 @@ public class BubbleSort {
         }
         System.out.println("Array in desc order");
         for(int i=0; i<n; i++){
-            System.out.print(arr[i]);
+            System.out.println(arr[i]);
         }
     }
 }
