@@ -15,3 +15,4 @@ public class ReverseLL {
         ll.head = prev; // update head to new first node
     }
 }
+
